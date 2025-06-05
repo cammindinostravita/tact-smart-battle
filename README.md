@@ -35,7 +35,7 @@ The challenge consists of 5 tasks with increasing complexity. Each one focuses o
 
 
 2. **Register for the Tact Smart Battle challenge**
-    - After logging in, visit the official challenge page on [Codeforces](https://codeforces.com/contests/2105) ([Registration guide](registration.md)).
+    - After logging in, visit the official challenge page on [Codeforces](https://codeforces.com/contest/2105) ([Registration guide](registration.md)).
     - Complete the registration form.
     - Be sure to enter your:
         - **Telegram username** — for community contact and support
@@ -224,7 +224,7 @@ Top 128 participants will receive Toncoin prizes and SBTs (Soulbound Tokens).
 
 ## 📅 Timeline
 
-- 📝 Registration: [codeforces.com/register](https://codeforces.com/contests/2105)
+ - 📝 Registration: [codeforces.com/register](https://codeforces.com/contest/2105)
 - 🚀 Challenge is open now
 - 🛑 Final Submission Deadline: **April 28, 12:00 (UTC+3)**
 

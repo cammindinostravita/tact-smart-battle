@@ -5,7 +5,7 @@
 ---
 
 ### 🔹 Step 1. Go to the registration page
-👉 [https://codeforces.com/contests/2105](https://codeforces.com/contests/2105)
+👉 [https://codeforces.com/contest/2105](https://codeforces.com/contest/2105)
 
  <img src=images/registration1.png width="600"/>
 
@@ -33,7 +33,7 @@
 ---
 
 ### 🔹 Step 3. Complete your registration
-Go back to the [contest page](https://codeforces.com/contests/2105) and click **Register** again
+Go back to the [contest page](https://codeforces.com/contest/2105) and click **Register** again
 
 <img src=images/registration3.png width="600"/>
 
